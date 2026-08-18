@@ -1,2 +1,2 @@
 # javascriptChallenge
-Ingresando dos arreglos, comprueba que uno es una subsequencia del otro
+Given two arrays, check that one is a subsequence of the other.
